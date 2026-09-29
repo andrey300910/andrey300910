@@ -2,10 +2,17 @@
 
 <h3 align="center">
   Desarrollador de Software · Full Stack Developer
+  
+  📍 Colombia 🇨🇴
 </h3>
 
 <p align="center">
-  📍 Colombia 🇨🇴
+  
+  portafolio 👨‍💻 [andrey-portafolio.vercel.app](https://andrey-portafolio.vercel.app/)
+  
+  linkendin 💻 www.linkedin.com/in/andrey-ricardo-silva-8a6061210
+  
+  Email 📫 anjarisil.0930@gmail.com
 </p>
 
 ---
